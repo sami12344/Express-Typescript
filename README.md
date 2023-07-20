@@ -5,8 +5,11 @@
  <h1 align="center"><strong>Express Framework with TypeScript</strong></h1>
 
 
-
-Welcome to the official GitHub repository for Express Framework with TypeScript, a fast, minimalist, and flexible web application framework for Node.js, enhanced with TypeScript support. This README provides an overview of the Express framework, its features with TypeScript, installation instructions, and how to get started with building web applications using Express with TypeScript.
+<p align='center'>
+<b>
+Express with TypeScript (Express TS) combines the speed of Express with the type safety of TypeScript, making web development robust and efficient.
+</b>
+<p>
 
 ## Table of Contents
 
