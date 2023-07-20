@@ -22,4 +22,5 @@
 // import './Request Object/req.params'
 // import './Request Object/req.protocol'
  // import './Request Object/req.query'
- import './Request Object/req.cookies'
+ // import './Request Object/req.cookies'
+ import './Request Object/Request Methods/req.get'
